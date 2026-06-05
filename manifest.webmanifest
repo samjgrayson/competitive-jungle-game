@@ -1,0 +1,12 @@
+{
+  "name": "Competitive Jungle v12",
+  "short_name": "Competitive Jungle v12",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
