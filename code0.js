@@ -57,7 +57,7 @@ gdjs.IntroCode.GDArrow_9595shorter_9595rObjects1= [];
 gdjs.IntroCode.GDArrow_9595shorter_9595rObjects2= [];
 
 
-gdjs.IntroCode.userFunc0xc90ea8 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xca0700 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 const params = new URLSearchParams(window.location.search);
@@ -66,7 +66,7 @@ gv.get("rid").setString(params.get("rid") || "");
 gv.get("cond").setString(params.get("cond") || "");
 gv.get("pid").setString(params.get("pid") || "");
 };
-gdjs.IntroCode.userFunc0xbbdbd0 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xb97570 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 // Helper to send an in-game event to Qualtrics
@@ -93,7 +93,7 @@ window.gdComplete = function(summary) {
 };
 
 };
-gdjs.IntroCode.userFunc0xafc750 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xff83a0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 (function () {
   const params = new URLSearchParams(window.location.search);
@@ -116,7 +116,7 @@ gdjs.IntroCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.IntroCode.userFunc0xc90ea8(runtimeScene);
+gdjs.IntroCode.userFunc0xca0700(runtimeScene);
 
 }
 
@@ -124,7 +124,7 @@ gdjs.IntroCode.userFunc0xc90ea8(runtimeScene);
 {
 
 
-gdjs.IntroCode.userFunc0xbbdbd0(runtimeScene);
+gdjs.IntroCode.userFunc0xb97570(runtimeScene);
 
 }
 
@@ -132,7 +132,7 @@ gdjs.IntroCode.userFunc0xbbdbd0(runtimeScene);
 {
 
 
-gdjs.IntroCode.userFunc0xafc750(runtimeScene);
+gdjs.IntroCode.userFunc0xff83a0(runtimeScene);
 
 }
 
@@ -169,7 +169,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(14154772);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16543236);
 }
 }
 if (isConditionTrue_0) {
@@ -189,7 +189,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(14156500);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11827100);
 }
 }
 if (isConditionTrue_0) {
