@@ -9,7 +9,7 @@ gdjs.evtsExt__BoidsMovement__DefineHelperClasses = {};
 gdjs.evtsExt__BoidsMovement__DefineHelperClasses.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__BoidsMovement__DefineHelperClasses.userFunc0xcf3020 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__DefineHelperClasses.userFunc0xa120f8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 if (gdjs.__boidsExtension) {
   return;
@@ -494,7 +494,7 @@ gdjs.evtsExt__BoidsMovement__DefineHelperClasses.eventsList0 = function(runtimeS
 {
 
 
-gdjs.evtsExt__BoidsMovement__DefineHelperClasses.userFunc0xcf3020(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__DefineHelperClasses.userFunc0xa120f8(runtimeScene, eventsFunctionContext);
 
 }
 
