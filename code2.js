@@ -347,7 +347,7 @@ gdjs.CWVCode.GDTimerTextObjects7= [];
 gdjs.CWVCode.GDTimerTextObjects8= [];
 
 
-gdjs.CWVCode.userFunc0xda4948 = function GDJSInlineCode(runtimeScene) {
+gdjs.CWVCode.userFunc0xbbc5a8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 (function(runtimeScene) {
@@ -410,7 +410,7 @@ gdjs.CWVCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.CWVCode.userFunc0xda4948(runtimeScene);
+gdjs.CWVCode.userFunc0xbbc5a8(runtimeScene);
 
 }
 
