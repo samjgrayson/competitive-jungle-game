@@ -197,7 +197,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedCont
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.GDObjectObjects2= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.userFunc0x9a6668 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.userFunc0xc9e388 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 
 runtimeScene.__boidsExtension = runtimeScene.__boidsExtension || {
@@ -228,7 +228,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.userFunc0x9a6668(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onCreatedContext.userFunc0xc9e388(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -317,7 +317,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEven
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.GDObjectObjects2= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.userFunc0xeab220 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.userFunc0xf9e7f8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 runtimeScene.__boidsExtension.boidsManager.moveAll();
 
@@ -329,7 +329,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEven
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.userFunc0xeab220(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.doStepPreEventsContext.userFunc0xf9e7f8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -535,7 +535,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateCon
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.userFunc0xbf6cb8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.userFunc0x100a468 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -549,7 +549,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateCon
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.userFunc0xbf6cb8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onActivateContext.userFunc0x100a468(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -635,7 +635,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateC
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.userFunc0xac9070 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.userFunc0xfa6af0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -649,7 +649,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateC
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.userFunc0xac9070(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDeActivateContext.userFunc0xfa6af0(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -735,7 +735,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyCont
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.userFunc0xf69fd0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.userFunc0x100a468 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 
 const object = objects[0];
@@ -750,7 +750,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.userFunc0xf69fd0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.onDestroyContext.userFunc0x100a468(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -836,7 +836,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirecti
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.userFunc0x9a66b8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.userFunc0xc9dfd0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -854,7 +854,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirecti
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.userFunc0x9a66b8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.MoveInDirectionContext.userFunc0xc9dfd0(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1485,7 +1485,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.userFunc0xf69e78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.userFunc0x10124d8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1503,7 +1503,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.userFunc0xf69e78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.SpeedContext.userFunc0x10124d8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1589,7 +1589,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXCont
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.userFunc0xbf6cb0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.userFunc0xa07900 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1607,7 +1607,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.userFunc0xbf6cb0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityXContext.userFunc0xa07900(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1693,7 +1693,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYCont
 gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.userFunc0xdca778 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.userFunc0xa079f8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1711,7 +1711,7 @@ gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.GDObjectObjects1;
-gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.userFunc0xdca778(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__BoidsMovement__BoidsMovement.BoidsMovement.prototype.VelocityYContext.userFunc0xa079f8(runtimeScene, objects, eventsFunctionContext);
 
 }
 

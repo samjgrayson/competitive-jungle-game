@@ -57,7 +57,7 @@ gdjs.IntroCode.GDArrow_9595shorter_9595rObjects1= [];
 gdjs.IntroCode.GDArrow_9595shorter_9595rObjects2= [];
 
 
-gdjs.IntroCode.userFunc0x9874e8 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xa45770 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 const params = new URLSearchParams(window.location.search);
@@ -68,7 +68,7 @@ gv.get("npc_capable").setString(params.get("npc_capable") || "");
 gv.get("npc_hostile").setString(params.get("npc_hostile") || "");
 gv.get("pid").setString(params.get("pid") || "");
 };
-gdjs.IntroCode.userFunc0x91fd38 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xe2f328 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 runtimeScene.setBackgroundColor(100,100,240);
 // Helper to send an in-game event to Qualtrics
@@ -95,7 +95,7 @@ window.gdComplete = function(summary) {
 };
 
 };
-gdjs.IntroCode.userFunc0xd9eb40 = function GDJSInlineCode(runtimeScene) {
+gdjs.IntroCode.userFunc0xf32b58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 (function () {
   const params = new URLSearchParams(window.location.search);
@@ -118,7 +118,7 @@ gdjs.IntroCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.IntroCode.userFunc0x9874e8(runtimeScene);
+gdjs.IntroCode.userFunc0xa45770(runtimeScene);
 
 }
 
@@ -126,7 +126,7 @@ gdjs.IntroCode.userFunc0x9874e8(runtimeScene);
 {
 
 
-gdjs.IntroCode.userFunc0x91fd38(runtimeScene);
+gdjs.IntroCode.userFunc0xe2f328(runtimeScene);
 
 }
 
@@ -134,7 +134,7 @@ gdjs.IntroCode.userFunc0x91fd38(runtimeScene);
 {
 
 
-gdjs.IntroCode.userFunc0xd9eb40(runtimeScene);
+gdjs.IntroCode.userFunc0xf32b58(runtimeScene);
 
 }
 
@@ -171,7 +171,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9179476);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(14065116);
 }
 }
 if (isConditionTrue_0) {
@@ -191,7 +191,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13733212);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11452916);
 }
 }
 if (isConditionTrue_0) {
